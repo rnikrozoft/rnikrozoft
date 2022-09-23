@@ -4,9 +4,7 @@
 
 
 <div align="center">
-<img src="./img/header.png">
-<img src="./img/header.svg">
-
+<a href="https://rnikrozoft.github.io/"><img src="./img/header.png"></a>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/j43i8c9032) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rnikrozoft)
